@@ -1,13 +1,15 @@
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
+
 
 function Header() {
   return (
-    <div>
-      <Header>
-        <Link to="/">Fast Pizza</Link>
-      </Header>
-    </div>
+    <header>
+      <Link to="/" className="tracking-widest">
+        Fast React Pizza Co.
+      </Link>
+
+
+    </header>
   );
 }
-
-export default Header
+export default Header;
