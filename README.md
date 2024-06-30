@@ -91,11 +91,9 @@ Prettier (for code formatting)
 ## Project Structure
 
 fast-pizza/
-│
 ├── public/
 │   ├── vite.svg
 │   └── index.html
-│
 ├── src/
 │   ├── features/
 │   │   ├── cart/
@@ -136,7 +134,6 @@ fast-pizza/
 │   ├── index.css
 │   ├── main.jsx
 │   └── store.js
-│
 ├── .eslintrc.json
 ├── .gitignore
 ├── .prettierrc
@@ -147,6 +144,7 @@ fast-pizza/
 ├── README.md
 ├── tailwind.config.js
 └── vite.config.js
+
 
 
 ### Prerequisites
