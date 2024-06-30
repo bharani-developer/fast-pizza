@@ -9,8 +9,6 @@ import CreateOrder, {
 } from './features/order/CreateOrder';
 import Order, { loader as orderLoader } from './features/order/Order';
 import { action as updateOrderAction } from './features/order/UpdateOrder';
-// eslint-disable-next-line no-unused-vars
-import clsx from 'clsx';
 
 import AppLayout from './ui/AppLayout';
 
