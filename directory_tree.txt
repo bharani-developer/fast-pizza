@@ -1,0 +1,53 @@
++--- public
+    |   vite.svg
++--- src
+    +--- features
+        +--- cart
+            |   Cart.jsx
+            |   CartItem.jsx
+            |   CartOverview.jsx
+            |   cartSlice.js
+            |   DeleteItem.jsx
+            |   EmptyCart.jsx
+            |   UpdateItemQuantity.jsx
+        +--- menu
+            |   Menu.jsx
+            |   MenuItem.jsx
+        +--- order
+            |   CreateOrder.jsx
+            |   Order.jsx
+            |   OrderItem.jsx
+            |   SearchOrder.jsx
+            |   UpdateOrder.jsx
+        +--- user
+            |   CreateUser.jsx
+            |   UserName.jsx
+            |   userSlice.js
+    +--- services
+        |   apiGeocoding.js
+        |   apiRestaurant.js
+    +--- ui
+        |   AppLayout.jsx
+        |   Button.jsx
+        |   Error.jsx
+        |   Header.jsx
+        |   Home.jsx
+        |   LinkButton.jsx
+        |   Loader.jsx
+    +--- utils
+        |   helpers.js
+    |   App.jsx
+    |   index.css
+    |   main.jsx
+    |   store.js
+|   .eslintrc.json
+|   .gitignore
+|   .prettierrc
+|   directory_tree.txt
+|   index.html
+|   package.json
+|   package-lock.json
+|   postcss.config.js
+|   README.md
+|   tailwind.config.js
+|   vite.config.js
