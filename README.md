@@ -1,15 +1,22 @@
 # 🍕 Fast Pizza App
 
 <div align="center">
-  <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza1.png" alt="Pizza Home" width="200"/>
-  <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza2.png" alt="Pizza Menu" width="200"/>
-  <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza3.png" alt="Pizza Add" width="200"/>
+  <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza1.png" alt="Pizza Home" width="400"/>
+  <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza2.png" alt="Pizza Menu" width="400"/>
 
 </div>
 <div align="center">
- <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza4.png" alt="Pizza Cart" width="200"/>
-  <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza5.png" alt="Pizza Order" width="200"/>
-  <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza6.png" alt="Pizza Status" width="200"/>
+  <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza3.png" alt="Pizza Add" width="400"/>
+   <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza4.png" alt="Pizza Cart" width="400"/>
+
+</div>
+
+
+
+<div align="center">
+
+  <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza5.png" alt="Pizza Order" width="400"/>
+  <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza6.png" alt="Pizza Status" width="400"/>
 </div>
 
 Pizza Menu React App! This project demonstrates a basic implementation of a dynamic pizza menu using React. Users can browse through various pizza options, view details, and customize their selections.
@@ -86,49 +93,49 @@ Prettier (for code formatting)
 fast-pizza/
 │
 ├── public/
-│ ├── vite.svg
-│ └── index.html
+│   ├── vite.svg
+│   └── index.html
 │
 ├── src/
-│ ├── features/
-│ │ ├── cart/
-│ │ │ ├── Cart.jsx
-│ │ │ ├── CartItem.jsx
-│ │ │ ├── CartOverview.jsx
-│ │ │ ├── cartSlice.js
-│ │ │ ├── DeleteItem.jsx
-│ │ │ ├── EmptyCart.jsx
-│ │ │ └── UpdateItemQuantity.jsx
-│ │ ├── menu/
-│ │ │ ├── Menu.jsx
-│ │ │ └── MenuItem.jsx
-│ │ ├── order/
-│ │ │ ├── CreateOrder.jsx
-│ │ │ ├── Order.jsx
-│ │ │ ├── OrderItem.jsx
-│ │ │ ├── SearchOrder.jsx
-│ │ │ └── UpdateOrder.jsx
-│ │ └── user/
-│ │ ├── CreateUser.jsx
-│ │ ├── UserName.jsx
-│ │ └── userSlice.js
-│ ├── services/
-│ │ ├── apiGeocoding.js
-│ │ └── apiRestaurant.js
-│ ├── ui/
-│ │ ├── AppLayout.jsx
-│ │ ├── Button.jsx
-│ │ ├── Error.jsx
-│ │ ├── Header.jsx
-│ │ ├── Home.jsx
-│ │ ├── LinkButton.jsx
-│ │ └── Loader.jsx
-│ ├── utils/
-│ │ └── helpers.js
-│ ├── App.jsx
-│ ├── index.css
-│ ├── main.jsx
-│ └── store.js
+│   ├── features/
+│   │   ├── cart/
+│   │   │   ├── Cart.jsx
+│   │   │   ├── CartItem.jsx
+│   │   │   ├── CartOverview.jsx
+│   │   │   ├── cartSlice.js
+│   │   │   ├── DeleteItem.jsx
+│   │   │   ├── EmptyCart.jsx
+│   │   │   └── UpdateItemQuantity.jsx
+│   │   ├── menu/
+│   │   │   ├── Menu.jsx
+│   │   │   └── MenuItem.jsx
+│   │   ├── order/
+│   │   │   ├── CreateOrder.jsx
+│   │   │   ├── Order.jsx
+│   │   │   ├── OrderItem.jsx
+│   │   │   ├── SearchOrder.jsx
+│   │   │   └── UpdateOrder.jsx
+│   │   └── user/
+│   │       ├── CreateUser.jsx
+│   │       ├── UserName.jsx
+│   │       └── userSlice.js
+│   ├── services/
+│   │   ├── apiGeocoding.js
+│   │   └── apiRestaurant.js
+│   ├── ui/
+│   │   ├── AppLayout.jsx
+│   │   ├── Button.jsx
+│   │   ├── Error.jsx
+│   │   ├── Header.jsx
+│   │   ├── Home.jsx
+│   │   ├── LinkButton.jsx
+│   │   └── Loader.jsx
+│   ├── utils/
+│   │   └── helpers.js
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   └── store.js
 │
 ├── .eslintrc.json
 ├── .gitignore
@@ -140,6 +147,7 @@ fast-pizza/
 ├── README.md
 ├── tailwind.config.js
 └── vite.config.js
+
 
 ### Prerequisites
 
