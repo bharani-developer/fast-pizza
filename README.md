@@ -7,7 +7,7 @@
 
 </div>
 <div align="center">
- <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza45.png" alt="Pizza Cart" width="200"/>
+ <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza4.png" alt="Pizza Cart" width="200"/>
   <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza5.png" alt="Pizza Order" width="200"/>
   <img src="https://github.com/bharani-developer/fast-pizza/blob/main/public/pizza6.png" alt="Pizza Status" width="200"/>
 </div>
